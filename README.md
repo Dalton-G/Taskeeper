@@ -10,12 +10,12 @@ Taskeeper is a simple and efficient to-do app built with Flutter that helps you 
 - **Intuitive Interface**: Taskeeper features a clean and user-friendly interface that makes it easy to manage your tasks on the go.
 
 ## Screenshots
-![home](https://github.com/Dalton-G/Taskeeper/blob/main/assets/home.jpg?raw=true)
-![addTask](https://github.com/Dalton-G/Taskeeper/blob/main/assets/addTask.jpg?raw=true)
-![addedTask](https://github.com/Dalton-G/Taskeeper/blob/main/assets/addedTask.jpg?raw=true)
-![markAsComplete](https://github.com/Dalton-G/Taskeeper/blob/main/assets/markAsComplete.jpg?raw=true)
-![deleteTask](https://github.com/Dalton-G/Taskeeper/blob/main/assets/deleteTask.jpg?raw=true)
-![deletedTask](https://github.com/Dalton-G/Taskeeper/blob/main/assets/deletedTask.jpg?raw=true)
+![home](https://github.com/Dalton-G/Taskeeper/blob/master/assets/home.jpg?raw=true)
+![addTask](https://github.com/Dalton-G/Taskeeper/blob/master/assets/addTask.jpg?raw=true)
+![addedTask](https://github.com/Dalton-G/Taskeeper/blob/master/assets/addedTask.jpg?raw=true)
+![markAsComplete](https://github.com/Dalton-G/Taskeeper/blob/master/assets/markAsComplete.jpg?raw=true)
+![deleteTask](https://github.com/Dalton-G/Taskeeper/blob/master/assets/deleteTask.jpg?raw=true)
+![deletedTask](https://github.com/Dalton-G/Taskeeper/blob/master/assets/deletedTask.jpg?raw=true)
 
 ## Contributing
 
